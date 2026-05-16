@@ -1,31 +1,187 @@
-<!--
-**GAURAV-InnovativeCodeZone/GAURAV-InnovativeCodeZone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-![logo](Banner.jpg)
-<h2 align="center">▼@Welcome To My Profile▼</h2>
-<h1 align="center">Hi 👋, I'm GAURAV PANWAR</h1>
-<h3 align="center">۝ A passionate and innovative Web Developer & Software Engineer from India ۝</h3>
-<h2 align="center">⊂(◉‿◉)つ</h2>
+<div align="center">
 
-<img align="right" alt="coding gif" width="400" src="Animated_gif1.gif">
+<img width="100%" src="BANNER.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-innovativecodezone&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-innovativecodezone" /> </p>
+<br><br>
 
-- 🌱 I’m currently learning ➝➝➝
-- ✿☞Python
-- ✿☞Javascript
-- ✿☞Nodejs
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Building+Production-Ready+Backend+Systems;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+Redis;Backend+Architecture+%E2%80%A2+Automation+%E2%80%A2+AI+Integrations;Focused+on+Scalable+API+Development" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-innovativecodezone&show_icons=true&locale=en&layout=compact" alt="gaurav-innovativecodezone"/></p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,redis,mysql,mongodb,linux,git,github,react,tailwind&theme=dark" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-innovativecodezone&show_icons=true&locale=en" alt="gaurav-innovativecodezone"/></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-innovativecodezone&" alt="gaurav-innovativecodezone"/></p>
+---
 
-<p>
-<img align="center" alt="coding gif" width="450" src="Animated_gif2.gif">
-<img align="center" alt="coding gif" width="450" src="Animated_gif3.gif">
+# 🚀 About Me
+
+```python
+class GauravPanwar:
+
+    def __init__(self):
+        self.role = "Python Backend Developer"
+        self.focus = [
+            "Backend Engineering",
+            "Scalable API Development",
+            "AI Automation",
+            "System Design"
+        ]
+
+        self.current_stack = {
+            "Backend": ["Python", "FastAPI", "Flask", "SQLAlchemy", "Alembic"],
+            "Database": ["SQL", "PostgreSQL", "MySQL", "MongoDB"],
+            "Infrastructure": ["Docker", "Redis", "Nginx", "Gunicorn", "Uvicorn"],
+            "Tools": ["Git", "GitHub", "Linux", "Postman"]
+        }
+
+    def career_goal(self):
+        return "Building scalable production-grade backend systems"
+```
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Backend & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,docker,redis,linux&theme=dark" />
+<br>
+
+```text
+Python • Flask • FastAPI • Docker • Redis • Linux
+```
+
+---
+
+### Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=sql,postgres,mysql,mongodb&theme=dark" />
+<img src="https://img.shields.io/badge/SQLAlchemy-1F425F?style=for-the-badge&logo=python&logoColor=white"/>
+
 </p>
+
+```text
+SQL • PostgreSQL • MySQL • MongoDB • ORM:SQLAlchemy
+```
+
+---
+
+### Tools & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,react,tailwind&theme=dark" />
+</p>
+
+```text
+Git • GitHub • VS Code • Postman • React • Tailwind CSS
+```
+
+</div>
+
+---
+
+# 📚 Learning / Exploring
+
+- Backend Architecture
+- Scalable API Design
+- Redis & Celery
+- AI & LLM Integrations
+- Automation Systems
+- Deployment Workflows
+- System Design
+- ASGI / WSGI Concepts
+
+---
+
+# 📌 Featured Projects
+
+## 🏥 MEDiFLOW — Hospital Management System
+
+Backend-focused hospital management system designed to practice real-world backend architecture and scalable API development.
+
+### Highlights
+
+- Authentication workflows
+- PostgreSQL integration
+- Dockerized backend setup
+- SQLAlchemy & Alembic integration
+- Structured FastAPI architecture
+
+### Tech Stack
+
+```bash
+FastAPI • PostgreSQL • Docker • SQLAlchemy
+```
+
+---
+
+## 🐍 Snake Game
+
+Classic snake game project built for programming logic and development practice.
+
+---
+
+## 🧮 Calculator Project
+
+Simple calculator application created while strengthening programming fundamentals.
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravpanwar08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpanwar08&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gauravpanwar08&bg_color=0D1117&color=60A5FA&line=2563EB&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Career Goal
+
+To become a high-level backend engineer specializing in:
+
+- Scalable backend systems
+- AI automation
+- Production-grade architecture
+- Real-world SaaS applications
+- High-performance API development
+
+---
+
+# 📫 Connect
+
+<div align="center">
+
+<a href="https://github.com/gauravpanwar08">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gauravpanwar08">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Building real systems. Solving real problems.
+
+</div>
