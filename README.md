@@ -14,6 +14,22 @@
 
 ---
 
+# 👋 Hi, I'm Gaurav Singh Panwar
+
+## 🚀 Python Backend Engineer
+
+I build **scalable backend systems and production-grade APIs** using Python ecosystem.
+
+💡 Focus Areas:
+- Backend Engineering (FastAPI, Flask)
+- System Design & Architecture
+- AI Automation & LLM Integrations
+- Scalable Microservices
+- Database Design (SQL + NoSQL)
+
+🎯 Goal:
+To become a high-level backend engineer building **real-world SaaS + AI-driven systems**.
+
 # 🚀 About Me
 
 ```python
