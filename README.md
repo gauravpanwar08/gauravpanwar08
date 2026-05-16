@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Building+Production-Ready+Backend+Systems;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+Redis;Backend+Architecture+%E2%80%A2+Automation+%E2%80%A2+AI+Integrations;Focused+on+Scalable+API+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Building+Production-Ready+Backend+Systems;FastAPI+%E2%80%A2+PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+Redis;Backend+Architecture+%E2%80%A2+Automation+%E2%80%A2+AI+Integrations;Focused+on+Scalable+API+Development" />
 
 <br><br>
 
@@ -200,4 +200,11 @@ To become a high-level backend engineer specializing in:
 
 ### ⚡ Building real systems. Solving real problems.
 
+</div>
+---
+
+<div align="center">
+<img src="Animated_gif1.gif" width="350px"/>
+
+### ⚡ Happy Coding! 
 </div>
