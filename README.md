@@ -176,7 +176,7 @@ To become a high-level backend engineer specializing in:
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -201,10 +201,10 @@ To become a high-level backend engineer specializing in:
 ### ⚡ Building real systems. Solving real problems.
 
 </div>
----
+
 
 <div align="center">
-<img src="Animated_gif1.gif" width="350px"/>
+<img src="Animated_gif1.gif" width="500px"/>
 
 ### ⚡ Happy Coding! 
 </div>
